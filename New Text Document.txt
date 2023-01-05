@@ -19,24 +19,3 @@ PFCAdmin PFC@PFC@PFC
 System System!@#$%^
 
 
-http://satellitecloud.dyndns.biz:8188/webui/
-Admin blesso!@#$
-SuperUser System!@#
-
-http://satellitecloud.dyndns.biz:8989/webui/
-BBIAdmin BBIAdmin^
-SuperUser SuperUser@Keune$
-
-http://sk.utis.pk:4542/webui/index.zul;jsessionid=node061ubfg1kchtk15s0hwi74gakv94.node0
-Admin Admin@SK
-System System
-
-
-http://116.58.53.114:8989/webui/index.zul;jsessionid=node0177d80162tti1i9148zm0530966.node0
-STIAdmin:STIAdmin!@#$
-System:System^
-
-http://116.58.53.114:9669/webui/
-Admin:Admin()*&^
-System:System009^
-
